@@ -21,5 +21,6 @@ Gem:: Specification.new do |s|
   s.authors     = ["Guido Knips"]
   s.email       = 'guido.knips@rub.de'
   s.files       = ['lib/rschmutz.rb', 'COPYING.LESSER']
+  s.homepage    = 'https://github.com/GKnirps/rschmutz/'
   s.license     = 'LGPL'
 end
